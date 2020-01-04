@@ -1,0 +1,3 @@
+Inspirion 
+
+https://dev.to/dotnet/how-you-can-learn-mock-testing-in-net-core-and-c-with-moq-4ikd
